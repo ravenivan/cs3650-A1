@@ -1,1 +1,25 @@
 # Simply copy and paste the output from your terminal here!
+1. ls
+ExternalResources  hello.c  output.txt  README.md
+
+2. pwd
+/home/ravenivan1/cs3650-A1
+
+3. whoami
+ravenivan1
+
+4. mkdir testdir
+
+5. cd testdir
+
+6. touch test.txt
+
+7. echo "This is a test" > test.txt
+
+8. cat test.txt
+This is a test
+
+9. cp test.txt copy.txt
+
+10. mv copy.txt renamed.txt
+
