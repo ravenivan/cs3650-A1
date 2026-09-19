@@ -1,25 +1,24 @@
 # Simply copy and paste the output from your terminal here!
-1. ls
+ravenivan1@login-students:~/cs3650-A1$ ls
 ExternalResources  hello.c  output.txt  README.md
 
-2. pwd
+ravenivan1@login-students:~/cs3650-A1$ pwd
 /home/ravenivan1/cs3650-A1
 
-3. whoami
+ravenivan1@login-students:~/cs3650-A1$ whoami
 ravenivan1
 
-4. mkdir testdir
+ravenivan1@login-students:~/cs3650-A1$ mkdir testdir
 
-5. cd testdir
+ravenivan1@login-students:~/cs3650-A1$ cd testdir
 
-6. touch test.txt
+ravenivan1@login-students:~/cs3650-A1/testdir$ touch test.txt
 
-7. echo "This is a test" > test.txt
+ravenivan1@login-students:~/cs3650-A1/testdir$ echo "This is a test" > test.txt
 
-8. cat test.txt
+ravenivan1@login-students:~/cs3650-A1/testdir$ cat test.txt
 This is a test
 
-9. cp test.txt copy.txt
+ravenivan1@login-students:~/cs3650-A1/testdir$ cp test.txt copy.txt
 
-10. mv copy.txt renamed.txt
-
+ravenivan1@login-students:~/cs3650-A1/testdir$ mv copy.txt renamed.txt
